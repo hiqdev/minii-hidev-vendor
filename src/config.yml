@@ -1,0 +1,14 @@
+vendor:
+    name:       minii
+    title:      minii
+    github:     https://github.com/hiqdev/minii-core
+    homepage:   http://hiqdev.com/minii
+    forum:      http://forum.hiqdev.com/
+    email:      support@hiqdev.com
+    license:    BSD-3-Clause
+    authors:
+        hiqsol:
+            name:       Andrii Vasyliev
+            email:      sol@hiqdev.com
+            github:     https://github.com/hiqsol
+            homepage:   http://hipanel.com/

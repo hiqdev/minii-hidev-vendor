@@ -1,0 +1,32 @@
+{
+    "name": "minii/hidev-vendor",
+    "type": "yii2-extension",
+    "description": "minii vendor configuration for HiDev",
+    "keywords": [
+        "minii",
+        "hidev",
+        "vendor",
+        "config"
+    ],
+    "homepage": "https://github.com/hiqdev/minii-hidev-vendor",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@hiqdev.com",
+        "source": "https://github.com/hiqdev/minii-hidev-vendor",
+        "issues": "https://github.com/hiqdev/minii-hidev-vendor/issues",
+        "wiki": "https://github.com/hiqdev/minii-hidev-vendor/wiki",
+        "forum": "http://forum.hiqdev.com/"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "http://hipanel.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "minii\\hidev\\vendor\\": "src"
+        }
+    }
+}
