@@ -5,7 +5,7 @@ HiDev minii vendor
 
 [![Latest Stable Version](https://poser.pugx.org/minii/hidev-vendor/v/stable)](https://packagist.org/packages/minii/hidev-vendor)
 [![Total Downloads](https://poser.pugx.org/minii/hidev-vendor/downloads)](https://packagist.org/packages/minii/hidev-vendor)
-[![Build Status](https://img.shields.io/travis/minii/hidev-vendor.svg)](https://travis-ci.org/minii/hidev-vendor)
+[![Build Status](https://img.shields.io/travis/hiqdev/minii-hidev-vendor.svg)](https://travis-ci.org/hiqdev/minii-hidev-vendor)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 This plugin provides [minii](https://github.com/hiqdev/minii) internal configuration for HiDev.

@@ -27,4 +27,4 @@ include:
     - src/config.yml
 
 require:
-    hiqdev/hidev-php: "*@dev"
+    hiqdev/hidev-php: "*"
