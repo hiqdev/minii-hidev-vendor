@@ -6,6 +6,8 @@ HiDev minii vendor
 [![Latest Stable Version](https://poser.pugx.org/minii/hidev-vendor/v/stable)](https://packagist.org/packages/minii/hidev-vendor)
 [![Total Downloads](https://poser.pugx.org/minii/hidev-vendor/downloads)](https://packagist.org/packages/minii/hidev-vendor)
 [![Build Status](https://img.shields.io/travis/hiqdev/minii-hidev-vendor.svg)](https://travis-ci.org/hiqdev/minii-hidev-vendor)
+[![Code Coverage](https://scrutinizer-ci.com/g/hiqdev/minii-hidev-vendor/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/minii-hidev-vendor/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/minii-hidev-vendor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/minii-hidev-vendor/?branch=master)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 This plugin provides [minii](https://github.com/hiqdev/minii) internal configuration for HiDev.
@@ -43,4 +45,4 @@ to the require section of your composer.json.
 This project is released under the terms of the BSD-3-Clause [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
-Copyright © 2015, HiQDev (http://hiqdev.com/minii)
+Copyright © 2015-2016, HiQDev (http://hiqdev.com/minii)
