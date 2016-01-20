@@ -4,6 +4,7 @@ minii/hidev-vendor commits history
 ## 0.1.0 2016-01-20
 
 - Changed Plugin -> yii2-extraconfig
+    - cc27ff4 2016-01-20 added `version` file (sol@hiqdev.com)
     - 2cd465b 2016-01-20 rehideved (sol@hiqdev.com)
     - a990547 2016-01-20 redone Plugin -> yii2-extraconfig (sol@hiqdev.com)
 
