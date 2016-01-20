@@ -1,6 +1,11 @@
 minii/hidev-vendor commits history
 ----------------------------------
 
+## 0.1.1 2016-01-20
+
+- Fixed composer.json: added extra yii2-extraconfig
+    - 53ca109 2016-01-20 fixed composer.json: added extra yii2-extraconfig (sol@hiqdev.com)
+
 ## 0.1.0 2016-01-20
 
 - Changed Plugin -> yii2-extraconfig

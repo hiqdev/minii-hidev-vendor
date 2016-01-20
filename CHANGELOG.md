@@ -1,6 +1,10 @@
 minii/hidev-vendor changelog
 ----------------------------
 
+## 0.1.1 2016-01-20
+
+- Fixed composer.json: added extra yii2-extraconfig
+
 ## 0.1.0 2016-01-20
 
 - Changed Plugin -> yii2-extraconfig
