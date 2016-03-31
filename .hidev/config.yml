@@ -1,14 +1,13 @@
 github:
-    name:           hiqdev/minii-hidev-vendor
+    full_name:      hiqdev/minii-hidev-vendor
 
 package:
-    name:           hidev-vendor
-    namespace:      minii\hidev\vendor
-    headline:       HiDev minii vendor
-    title:          minii vendor configuration for HiDev
     type:           yii2-extension
+    name:           hidev-vendor
+    title:          minii vendor configuration for HiDev
+    headline:       HiDev minii vendor
     keywords:       minii, hidev, vendor, config
-    year:           2015
+    namespace:      minii\hidev\vendor
     description:    |
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
         This plugin provides [minii](https://github.com/hiqdev/minii) internal configuration for HiDev.
